@@ -1,0 +1,132 @@
+/* Sizes */
+.txt-sz-00{font-size:0.0rem;}
+.txt-sz-01{font-size:0.1rem;}
+.txt-sz-02{font-size:0.2rem;}
+.txt-sz-03{font-size:0.3rem;}
+.txt-sz-04{font-size:0.4rem;}
+.txt-sz-05{font-size:0.5rem;}
+.txt-sz-06{font-size:0.6rem;}
+.txt-sz-07{font-size:0.7rem;}
+.txt-sz-08{font-size:0.8rem;}
+.txt-sz-09{font-size:0.9rem;}
+.txt-sz-10{font-size:1.0rem;}
+.txt-sz-11{font-size:1.1rem;}
+.txt-sz-12{font-size:1.2rem;}
+.txt-sz-13{font-size:1.3rem;}
+.txt-sz-14{font-size:1.4rem;}
+.txt-sz-15{font-size:1.5rem;}
+.txt-sz-16{font-size:1.6rem;}
+.txt-sz-17{font-size:1.7rem;}
+.txt-sz-18{font-size:1.8rem;}
+.txt-sz-19{font-size:1.9rem;}
+.txt-sz-20{font-size:2.0rem;}
+.txt-sz-21{font-size:2.1rem;}
+.txt-sz-22{font-size:2.2rem;}
+.txt-sz-23{font-size:2.3rem;}
+.txt-sz-24{font-size:2.4rem;}
+.txt-sz-25{font-size:2.5rem;}
+.txt-sz-26{font-size:2.6rem;}
+.txt-sz-27{font-size:2.7rem;}
+.txt-sz-28{font-size:2.8rem;}
+.txt-sz-29{font-size:2.9rem;}
+.txt-sz-30{font-size:3.0rem;}
+.txt-sz-31{font-size:3.1rem;}
+.txt-sz-32{font-size:3.2rem;}
+.txt-sz-33{font-size:3.3rem;}
+.txt-sz-34{font-size:3.4rem;}
+.txt-sz-35{font-size:3.5rem;}
+.txt-sz-36{font-size:3.6rem;}
+.txt-sz-37{font-size:3.7rem;}
+.txt-sz-38{font-size:3.8rem;}
+.txt-sz-39{font-size:3.9rem;}
+.txt-sz-40{font-size:4.0rem;}
+.txt-sz-41{font-size:4.1rem;}
+.txt-sz-42{font-size:4.2rem;}
+.txt-sz-43{font-size:4.3rem;}
+.txt-sz-44{font-size:4.4rem;}
+.txt-sz-45{font-size:4.5rem;}
+.txt-sz-46{font-size:4.6rem;}
+.txt-sz-47{font-size:4.7rem;}
+.txt-sz-48{font-size:4.8rem;}
+.txt-sz-49{font-size:4.9rem;}
+.txt-sz-50{font-size:5.0rem;}
+.txt-sz-51{font-size:5.1rem;}
+.txt-sz-52{font-size:5.2rem;}
+.txt-sz-53{font-size:5.3rem;}
+.txt-sz-54{font-size:5.4rem;}
+.txt-sz-55{font-size:5.5rem;}
+.txt-sz-56{font-size:5.6rem;}
+.txt-sz-57{font-size:5.7rem;}
+.txt-sz-58{font-size:5.8rem;}
+.txt-sz-59{font-size:5.9rem;}
+.txt-sz-60{font-size:6.0rem;}
+.txt-sz-61{font-size:6.1rem;}
+.txt-sz-62{font-size:6.2rem;}
+.txt-sz-63{font-size:6.3rem;}
+.txt-sz-64{font-size:6.4rem;}
+.txt-sz-65{font-size:6.5rem;}
+.txt-sz-66{font-size:6.6rem;}
+.txt-sz-67{font-size:6.7rem;}
+.txt-sz-68{font-size:6.8rem;}
+.txt-sz-69{font-size:6.9rem;}
+.txt-sz-70{font-size:7.0rem;}
+.txt-sz-71{font-size:7.1rem;}
+.txt-sz-72{font-size:7.2rem;}
+.txt-sz-73{font-size:7.3rem;}
+.txt-sz-74{font-size:7.4rem;}
+.txt-sz-75{font-size:7.5rem;}
+.txt-sz-76{font-size:7.6rem;}
+.txt-sz-77{font-size:7.7rem;}
+.txt-sz-78{font-size:7.8rem;}
+.txt-sz-79{font-size:7.9rem;}
+.txt-sz-80{font-size:8.0rem;}
+.txt-sz-81{font-size:8.1rem;}
+.txt-sz-82{font-size:8.2rem;}
+.txt-sz-83{font-size:8.3rem;}
+.txt-sz-84{font-size:8.4rem;}
+.txt-sz-85{font-size:8.5rem;}
+.txt-sz-86{font-size:8.6rem;}
+.txt-sz-87{font-size:8.7rem;}
+.txt-sz-88{font-size:8.8rem;}
+.txt-sz-89{font-size:8.9rem;}
+.txt-sz-90{font-size:9.0rem;}
+.txt-sz-91{font-size:9.1rem;}
+.txt-sz-92{font-size:9.2rem;}
+.txt-sz-93{font-size:9.3rem;}
+.txt-sz-94{font-size:9.4rem;}
+.txt-sz-95{font-size:9.5rem;}
+.txt-sz-96{font-size:9.6rem;}
+.txt-sz-97{font-size:9.7rem;}
+.txt-sz-98{font-size:9.8rem;}
+.txt-sz-99{font-size:9.9rem;}
+.txt-sz-100{font-size:10.0rem;}
+/* Alignment */
+.txt-center{text-align: center;}
+.txt-left{text-align: left;}
+.txt-right{text-align: right;}
+.txt-justify{text-align: justify;}
+.txt-initial{text-align: initial;}
+.txt-inherit{text-align: inherit;}
+.txt-start{text-align: start;}
+.txt-end {text-align: end;}
+.txt-unset{text-align: unset;}
+/* text-wieght */
+.txt-100{font-weight: 100;}
+.txt-200{font-weight: 200;}
+.txt-300{font-weight: 300;}
+.txt-400{font-weight: 400;}
+.txt-500{font-weight: 500;}
+.txt-60{font-weight: 600;}
+.txt-700{font-weight: 700;}
+.txt-800{font-weight: 800;}
+.txt-900{font-weight: 900;}
+.txt-bold {font-weight: bold;}
+.txt-bolder {font-weight: bolder;}
+.txt-normal{font-weight: normal;}
+/* text-style */
+.txt-italic{
+    font-style: italic;
+}
+.txt-oblique{
+    font-style: oblique
+}
